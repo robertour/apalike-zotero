@@ -149,7 +149,6 @@
           </else>
         </choose>
       </if>
-      <else/>
     </choose>
   </macro>
   <macro name="title">
